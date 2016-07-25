@@ -1,4 +1,4 @@
-version 2.76
+version 2.76(hotfix1)
             Include 0.0.0.0/8 in DNS rebind checks. This range 
 	    translates to hosts on  the local network, or, at 
 	    least, 0.0.0.0 accesses the local host, so could
