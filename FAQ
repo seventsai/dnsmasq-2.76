@@ -1,4 +1,4 @@
-Q: Why does dnsmasq open UDP ports >1024 as well as port 53.
+Q1: Why does dnsmasq open UDP ports >1024 as well as port 53.
    Is this a security problem/trojan/backdoor?
 
 A: The high ports that dnsmasq opens are for replies from the upstream
